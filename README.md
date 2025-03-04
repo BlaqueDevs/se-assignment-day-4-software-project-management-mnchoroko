@@ -7,7 +7,8 @@
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each? agile methodology is an iterative and incremental approach to project management and software development while waterfall methodology is linear and sequential in approach. The advantages of agile are a quick response to changes, regular customer feedback, and improved team collaboration. The advantages of waterfall methodology: Clear structure and documentation and easy to manage due to its rigidity. Disadvantages Agile: Less predictability and requires significant customer involvement. Waterfall: Difficult to accommodate changes and Testing occurs late in the process.
 
-## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?  Agile projects: Software products with evolving requirements and customer facing applications. Waterfall projects: Construction or manufacturing projects  and mission critical systems.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
