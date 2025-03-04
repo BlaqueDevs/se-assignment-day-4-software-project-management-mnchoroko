@@ -5,7 +5,8 @@
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns? Effective cost control ensures that the cost of the entire project stays within the allocated budget to avoid financial constraints and project failure. Funds are allocated effectively where they are needed thus increasing productivity. How to prevent budget overruns: Detailed budget planning where each phase of the entire project details what budget they will use. Tracking and monitoring of the expenses as they occur in real-time by use of finance management tools.
 
-## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each? agile methodology is an iterative and incremental approach to project management and software development while waterfall methodology is linear and sequential in approach. The advantages of agile are a quick response to changes, regular customer feedback, and improved team collaboration. The advantages of waterfall methodology: Clear structure and documentation and easy to manage due to its rigidity. Disadvantages Agile: Less predictability and requires significant customer involvement. Waterfall: Difficult to accommodate changes and Testing occurs late in the process.
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
