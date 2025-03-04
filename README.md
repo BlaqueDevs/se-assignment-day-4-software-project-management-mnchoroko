@@ -15,9 +15,14 @@
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?  A detailed project schedule is crucial for ensuring a project stays on track, meets deadlines, and is completed efficiently. Responsibilities are assigned to team members, improving ownership and collaboration. Gantt chart displays a project timeline, showing tasks, dependencies, and progress. It allows for flexible rescheduling in response to project changes.
 
-## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-## 9. How can clearly defining the problem help in developing a more effective software solution?
-## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-## 11. What are the main features or functionalities that make your software stand out?
-## 12. What data is available regarding the market size and growth potential for your software?
-## 13. How can understanding market trends inform your software’s positioning and development?
+## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience? Software is designed to solve real-world problems by improving efficiency, automating tasks, and enhancing user experiences. Core issues that software commonly addresses and why they matter to the target audience: inefficiency and  manual processes data management and security risks.
+
+## 9. How can clearly defining the problem help in developing a more effective software solution? Clearly defining the problem is the foundation of successful software development. A well-defined problem ensures that the solution is targeted, efficient, and user-centric.
+
+## 10. How would you describe your software solution in a way that captures its essence without diving into technical details? To describe a software solution without getting too technical is to focus on its core purpose, benefits, and the problem it solves simply and engagingly.
+
+## 11. What are the main features or functionalities that make your software stand out? The main features or functionalities that make a software solution stand out depending on its purpose are: user-centred experience to navigate with a minimal learning curve. Automation with efficiency to reduce manual effort and improve productivity. Collaboration and communication. Scalability and future-proofing.
+
+## 12. What data is available regarding the market size and growth potential for your software? The global software market is experiencing robust growth, with projections indicating a significant upward trajectory in the coming years.
+
+## 13. How can understanding market trends inform your software’s positioning and development? Keeping up with market trends is crucial for developing software that is relevant, competitive, and meets user needs.
