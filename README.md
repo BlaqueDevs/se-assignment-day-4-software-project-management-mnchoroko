@@ -9,9 +9,12 @@
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?  Agile projects: Software products with evolving requirements and customer facing applications. Waterfall projects: Construction or manufacturing projects  and mission critical systems.
 
-## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
-## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards? Clear requirements and specifications, test-driven development, automated testing and peer reviews, and pair programming. Importance of maintaining high standards: High-quality software leads to a better user experience, reducing frustration and improving customer retention, and high standards in QA streamline workflows and processes, making development faster and more predictable.
+
+## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful? Defining the project scope is essential for ensuring a project is well-planned, executed efficiently, and delivered successfully. Work Breakdown Structure (WBS) is a hierarchical decomposition of a project into smaller, manageable sections. It breaks down the project into phases, deliverables, and tasks, making it easier to plan, track, and execute.
+
+## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?  A detailed project schedule is crucial for ensuring a project stays on track, meets deadlines, and is completed efficiently. Responsibilities are assigned to team members, improving ownership and collaboration. Gantt chart displays a project timeline, showing tasks, dependencies, and progress. It allows for flexible rescheduling in response to project changes.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
